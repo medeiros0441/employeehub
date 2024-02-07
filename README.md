@@ -31,7 +31,41 @@ Estrutura do Projeto
     BLL (Business Logic Layer): Responsável pela conexão com o DAL e pelas verificações.
     DTO (Data Transfer Object): Armazena os modelos.
     DAL (Data Access Layer): Responsável pela conexão com o banco de dados SQL Server, contendo todas as operações CRUD necessárias para o funcionamento do software.
+    
+Integrações Implementadas
 
+    Cadastro e Login via Google:
+        Facilitamos o acesso com a opção de registro e login utilizando contas do Google.
+
+    Pagamento via Pix com Mercado Pago:
+        Oferecemos a comodidade de realizar pagamentos através do Pix, integrado ao sistema de pagamento Mercado Pago. Especialmente para empresas que desejam adicionar saldo para consultar leads de profissionais.
+
+Recursos Financeiros para Empresas
+
+    Adição de Saldo para Consulta de Leads:
+        Empresas têm a opção de adicionar saldo à sua conta para facilitar a consulta de perfis profissionais e aproveitar ao máximo as oportunidades disponíveis.
+
+Recursos de Segurança
+
+    Autenticação de E-mail:
+        Reforçamos a segurança com a autenticação de e-mail durante o processo de registro.
+
+    Atualização de Senha via E-mail:
+        A recuperação de senha é simplificada com a opção de atualização via e-mail.
+
+Personalização de Perfis
+
+    Cadastro de Redes Sociais:
+        Profissionais podem adicionar suas redes sociais aos perfis, proporcionando uma visão mais abrangente de suas habilidades e experiências.
+
+Status Atual e Acesso ao Software
+
+    Status de Implementação:
+        O software foi desenvolvido ao longo de dois anos, refinando continuamente suas funcionalidades e aprimorando a experiência do usuário.
+
+    Acesso Online:
+        O Employee Hub PJ está publicado e acessível através da URL: employeehubpj.azurewebsites.net.
+        
 Por razões de segurança, apenas o front-end é visível. O back-end foi construído utilizando bibliotecas .NET Framework.
 
 Sinta-se à vontade para explorar e melhorar a documentação do projeto conforme necessário. Estamos comprometidos com a qualidade e eficiência na gestão de vagas.
